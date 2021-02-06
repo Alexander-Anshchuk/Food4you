@@ -49,3 +49,10 @@ header {
   color: #000000;
   margin-right: 70px;
 }
+#main_dish {
+  width: 80%;
+}
+.main_plate {
+  position: absolute;
+  left: 45%;
+}
