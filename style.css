@@ -10,7 +10,7 @@ main {
   background-color: #ffe001;
 }
 header {
-  padding: 35px;
+  padding: 35px 55px 20px 55px;
   display: flex;
   justify-content: space-between;
 }
@@ -32,4 +32,20 @@ header {
 #numbers {
   font-size: 29.2px;
   line-height: 29px;
+}
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+}
+.menu a {
+  text-decoration: none;
+  font-family: Montserrat;
+  font-size: 14.7px;
+  line-height: 1.2;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: #000000;
+  margin-right: 70px;
 }
