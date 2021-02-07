@@ -158,3 +158,37 @@ header {
   right: -25%;
   transform: rotate(90deg);
 }
+.title_text_box2 {
+  margin: 0 auto;
+  max-width: 1060px;
+  text-align: center;
+}
+
+.title {
+  font-family: "East Sea Dokdo", cursive;
+  font-size: 50px;
+  line-height: 37px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #000000;
+  margin-top: 90px;
+}
+
+.text_button_title {
+  font-family: Montserrat;
+  font-size: 16.7px;
+  line-height: 29px;
+  font-weight: 400;
+  color: #000000;
+  margin-bottom: 40px;
+}
+
+.main_blok_food {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1300px;
+  width: 100%;
+}
+
+.title_article {
+}
