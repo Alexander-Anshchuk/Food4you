@@ -95,10 +95,33 @@ header {
   content: "";
   width: 100%;
   margin: 0 auto;
-  border-bottom: solid 1px rgb(199, 204, 123);
+  border-bottom: solid 1px rgb(22, 19, 19);
   position: absolute;
   left: 0;
   top: 100%;
   margin-right: -50%;
-  margin-top: 7%;
+  margin: 7% 0;
+}
+.sale {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+.sale_text {
+  font-size: 19.4px;
+  line-height: 1;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: "East Sea Dokdo", cursive;
+  width: 30%;
+}
+.sale_numbers {
+  font-size: 65px;
+  line-height: 1.2;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: "East Sea Dokdo", cursive;
 }
