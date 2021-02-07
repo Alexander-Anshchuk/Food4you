@@ -69,37 +69,28 @@ header {
 }
 
 #main_dish {
-<<<<<<< HEAD
     width: 100%;
     height: 100%;
     object-fit: cover;
-=======
-  width: 100%;
-  height: 100%;
->>>>>>> e37378c03c0d71f9799b520b8cb7aca602933bc8
+    width: 100%;
+    height: 100%;
 }
 
 .main_plate {
-<<<<<<< HEAD
     width: 50%;
     height: 567px;
-=======
-  width: 50%;
-  height: 80vh;
->>>>>>> e37378c03c0d71f9799b520b8cb7aca602933bc8
+    width: 50%;
+    height: 80vh;
 }
 
 .main_text {
-<<<<<<< HEAD
     /* width: 30%; */
     /* position: absolute;
   left: 12%;
   top: 30%; */
     text-align: center;
-=======
-  text-align: center;
-  position: relative;
->>>>>>> e37378c03c0d71f9799b520b8cb7aca602933bc8
+    text-align: center;
+    position: relative;
 }
 
 .handwriting_title {
@@ -162,7 +153,6 @@ header {
 }
 
 .sale_numbers {
-<<<<<<< HEAD
     font-size: 65px;
     line-height: 1.2;
     font-weight: 400;
@@ -243,74 +233,65 @@ header {
     color: #000000;
     padding: 25px 40px;
 }
-=======
-  font-size: 65px;
-  line-height: 1.2;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: #000000;
-  font-family: "East Sea Dokdo", cursive;
-}
+
 #btn {
-  font-family: Montserrat;
-  font-size: 14px;
-  padding: 10px 20px;
-  line-height: 1.2;
-  font-weight: 800;
-  text-transform: uppercase;
-  color: #000000;
-  background-color: #ffe001;
+    font-family: Montserrat;
+    font-size: 14px;
+    padding: 10px 20px;
+    line-height: 1.2;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #000000;
+    background-color: #ffe001;
 }
+
 .leave {
-  position: absolute;
-  top: 0;
-  left: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
+
 .tomato1 {
-  position: absolute;
-  top: -25%;
-  right: 0;
+    position: absolute;
+    top: -25%;
+    right: 0;
 }
+
 .tomato2 {
-  position: absolute;
-  bottom: 0;
-  right: -25%;
-  transform: rotate(90deg);
+    position: absolute;
+    bottom: 0;
+    right: -25%;
+    transform: rotate(90deg);
 }
+
 .title_text_box2 {
-  margin: 0 auto;
-  max-width: 1060px;
-  text-align: center;
+    margin: 0 auto;
+    max-width: 1060px;
+    text-align: center;
 }
 
 .title {
-  font-family: "East Sea Dokdo", cursive;
-  font-size: 50px;
-  line-height: 37px;
-  font-weight: 400;
-  text-transform: uppercase;
-  color: #000000;
-  margin-top: 90px;
+    font-family: "East Sea Dokdo", cursive;
+    font-size: 50px;
+    line-height: 37px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #000000;
+    margin-top: 90px;
 }
 
 .text_button_title {
-  font-family: Montserrat;
-  font-size: 16.7px;
-  line-height: 29px;
-  font-weight: 400;
-  color: #000000;
-  margin-bottom: 40px;
+    font-family: Montserrat;
+    font-size: 16.7px;
+    line-height: 29px;
+    font-weight: 400;
+    color: #000000;
+    margin-bottom: 40px;
 }
 
 .main_blok_food {
-  display: flex;
-  margin: 0 auto;
-  max-width: 1300px;
-  width: 100%;
+    display: flex;
+    margin: 0 auto;
+    max-width: 1300px;
+    width: 100%;
 }
-/* .spaghetti {
-  position: absolute;
-  bottom: -24%;
-  left: -7%;
-} */
->>>>>>> e37378c03c0d71f9799b520b8cb7aca602933bc8
