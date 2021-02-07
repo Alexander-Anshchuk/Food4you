@@ -297,6 +297,16 @@ header {
   max-width: 1300px;
   width: 100%;
 }
+
+/************
+box4
+************/
+.box {
+  display: flex;
+  margin: 0 auto;
+  max-width: 1300px;
+  width: 100%;
+}
 .sec2 {
   text-align: center;
 }
