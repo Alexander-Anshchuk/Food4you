@@ -9,6 +9,7 @@
 
 main {
     min-height: 100vh;
+    width: 100%;
     height: 100%;
     background: url(./img/main_right_rectangle.png) no-repeat fixed right;
     background-color: #ffe001;
@@ -47,6 +48,13 @@ header {
     justify-content: flex-end;
     list-style-type: none;
 }
+
+
+/* .spaghetti {
+    position: absolute;
+    left: -100px;
+    top: 0;
+} */
 
 .menu a {
     text-decoration: none;
