@@ -342,3 +342,22 @@ box4
   height: 100%;
   object-fit: cover;
 }
+footer {
+  padding: 45px;
+  height: 300px;
+  background: url(./img/bg_image.png);
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+.left_items_text {
+  width: 50%;
+  margin: 25px 0;
+}
+.right_items {
+  width: 50%;
+  margin: 40px 0;
+}
+.right_items img {
+  margin-right: 7px;
+}
