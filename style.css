@@ -8,18 +8,11 @@
 }
 
 main {
-<<<<<<< HEAD
   min-height: 100vh;
+  width: 100%;
   height: 100%;
   background: url(./img/main_right_rectangle.png) no-repeat fixed right;
   background-color: #ffe001;
-=======
-    min-height: 100vh;
-    width: 100%;
-    height: 100%;
-    background: url(./img/main_right_rectangle.png) no-repeat fixed right;
-    background-color: #ffe001;
->>>>>>> 179c7e99cc0486e3fdc998cf76a348a1100c6d7c
 }
 
 header {
@@ -55,7 +48,6 @@ header {
   justify-content: flex-end;
   list-style-type: none;
 }
-
 
 /* .spaghetti {
     position: absolute;
@@ -329,4 +321,14 @@ header {
 .subtext {
   width: 80%;
   margin: 1% auto 0;
+}
+.slider {
+  height: 60vh;
+  width: 60%;
+  margin: 0 auto;
+}
+.carousel-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
